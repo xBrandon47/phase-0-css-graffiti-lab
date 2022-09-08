@@ -1,1 +1,4 @@
 /* write your override styles here */
+#wall .tag-5 {
+    display: none;
+}
